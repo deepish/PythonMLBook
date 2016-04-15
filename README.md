@@ -1,7 +1,7 @@
 # PythonMLBook
 Purpose: Gives a brief overview of general topics which helps to get started.
 
-- [x] Getting started with Python for Data Science : http://blogs.wsj.com/cio/2014/05/02/why-do-we-need-data-science-when-weve-had-statistics-for-centuries/
+- [x] Getting started with Python for Data Science : http://xploreanalytics.blogspot.in/2016/03/getting-started-with-data-science-python.html
 
 List of videos to be created:
 - [ ] Introduction to Pandas
